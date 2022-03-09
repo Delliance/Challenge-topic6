@@ -45,7 +45,8 @@ public class BankAccount {
     )
     @JoinColumn(
             name = "bank_id",
-            referencedColumnName = "bank_id"
+            referencedColumnName = "bank_id",
+            nullable = false
     )
     private Bank bank;
 

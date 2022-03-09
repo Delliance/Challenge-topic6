@@ -29,6 +29,12 @@ public class Bank {
             updatable = false
     )
     private long id;
+
+    @Column(
+            name = "bank_name",
+            updatable = false,
+            nullable = false
+    )
     private String name;
 
 }

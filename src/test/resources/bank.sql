@@ -1,0 +1,10 @@
+insert into bank (bank_id, bank_name) values (1, 'Kwimbee');
+insert into bank (bank_id, bank_name) values (2, 'Photobug');
+insert into bank (bank_id, bank_name) values (3, 'Quimba');
+insert into bank (bank_id, bank_name) values (4, 'Jaxworks');
+insert into bank (bank_id, bank_name) values (5, 'Globant');
+insert into bank (bank_id, bank_name) values (6, 'Skinte');
+insert into bank (bank_id, bank_name) values (7, 'Zoonoodle');
+insert into bank (bank_id, bank_name) values (8, 'Twitterbridge');
+insert into bank (bank_id, bank_name) values (9, 'Devpoint');
+insert into bank (bank_id, bank_name) values (10, 'Kwideo');

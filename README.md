@@ -2,6 +2,8 @@ WIP
 
 Missing:
 
-Services mentioned in the challenge.
+1-Services mentioned in the challenge.
 
-Testing of the services.
+2-Custom exceptions
+
+3-Testing of the services.

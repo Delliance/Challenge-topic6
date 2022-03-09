@@ -29,6 +29,12 @@ public class Business { //TODO: change this to a one-to-one
                 updatable = false
         )
         private Long id;
+
+        @Column(
+                name = "business_name",
+                nullable = false,
+                unique = true
+        )
         private String name;
 
 }
