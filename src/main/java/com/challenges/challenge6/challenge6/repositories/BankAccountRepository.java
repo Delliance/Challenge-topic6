@@ -11,8 +11,4 @@ public interface BankAccountRepository extends JpaRepository <BankAccount, Long>
 
     BankAccount getBankAccountById(long id);
 
-    List<BankAccount> findBankAccountByOwnerFirstName(String ownerName);
-
-
-
 }

@@ -27,9 +27,9 @@ public class Bill {
             name = "bill_id",
             updatable = false
     )
-    private long id;
+    private String id;
     private LocalDateTime dueDate;
-    private long toPay;
+    private double toPay;
 
     @ManyToOne(
             cascade = CascadeType.ALL

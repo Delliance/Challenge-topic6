@@ -31,7 +31,7 @@ public class BankAccount {
             updatable = false
     )
     private long id;
-    private long balance;
+    private double balance;
 
 
     @Enumerated(EnumType.STRING)

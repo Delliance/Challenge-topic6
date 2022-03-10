@@ -1,9 +1,7 @@
-WIP
+Complete challenge
 
-Missing:
+Database used: postgres
 
-1-Services mentioned in the challenge.
+Database name: bank
 
-2-Custom exceptions
-
-3-Testing of the services.
+To see the tables, change "create-drop" to "create" in the application.properties line 5
